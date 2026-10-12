@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="Reverse_Logistics_Dashboard.png"
+  <img src="./Reverse_Logistics_Dashboard.png"
      alt="Reverse Logistics Operations Dashboard"
      width="100%">
 </p>
@@ -90,12 +90,12 @@ The project focuses on return volume and value, processing time, refund status, 
 Reverse_Logistics_Operations_Project/
 │
 ├── Reverse Logistics Operations & Returns Performance Dashboard Excel file/
-│   ├── Reverse_Logistics_Operations_Excel_Project.xlsx
-│   └── Reverse_Logistics_Dashboard.png
+│   └── Reverse_Logistics_Operations_Excel_Project.xlsx
 │
 ├── Reverse Logistics Operations & Returns Performance Dashboard Presentation/
 │   └── Project_Presentation.pptx
 │
+├── Reverse_Logistics_Dashboard.png
 └── README.md
 </pre>
 
